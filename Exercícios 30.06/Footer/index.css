@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+}
+
+footer {
+  margin-top: auto;
+  background: gray;
+  flex: 1;
+  color: white;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

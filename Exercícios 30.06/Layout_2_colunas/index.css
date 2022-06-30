@@ -1,0 +1,28 @@
+.container {
+  gap: 1rem;
+  display: flex;
+}
+aside {
+  border: 1px solid;
+  background: lightgreen;
+  display: flex;
+  height: 95vh;
+  flex: 25%;
+}
+main {
+  border: 1px solid;
+  background: lightblue;;
+  display: flex;
+  height: 95vh;
+  flex: 1;
+}
+
+main section:nth-child(1) {
+  background: lightgoldenrodyellow;
+  flex: 0 0 100px
+}
+
+main section:nth-child(2) {
+  background: lightsalmon;
+  flex: 0 120px
+}
