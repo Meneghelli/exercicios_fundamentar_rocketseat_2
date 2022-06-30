@@ -1,1 +1,1 @@
-# exerc-cios_fundamentar_rocketseat_2
+# exercicios_fundamentar_rocketseat_2
